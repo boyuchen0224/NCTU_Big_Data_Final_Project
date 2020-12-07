@@ -1,7 +1,7 @@
 # Big Data Final Project
 ## Information
 ### Training / Testing Data
-* `80%` for training, `20%` for testing
+* `~2018` for training, `2019` for testing
 ### Data for Building the Prediction Models
 * 市場：`台北一`
 * 作物種類

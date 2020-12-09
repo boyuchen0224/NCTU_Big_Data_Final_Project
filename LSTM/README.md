@@ -22,6 +22,21 @@
 csv (date-time, ground-truth, prediction)
 * https://drive.google.com/drive/folders/1fmQuRe9Mp53-z0FqOLc-irRQO9Gc13cb?usp=sharing
 
+
+
+| Date-time | 3_day_returns | Prediction |
+| -------- | -------- | -------- |
+| 2019/1/1     | -2.94     | 12.70     |
+| 2019/1/2     | -5.40     | 13.50     |
+
+
+| Date-time | Price | Prediction |
+| -------- | -------- | -------- |
+| 2019/1/1     | 26.4     | 26.48     |
+| 2019/1/2     | 26.3     | 26.60     |
+
+
+
 ### Sample
 * 3 day returns prediction
 

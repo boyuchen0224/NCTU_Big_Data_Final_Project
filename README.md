@@ -31,7 +31,10 @@
 
 
 ## Difference between 3 day return prediction
-* 漲跌幅度的誤差: |groundtruth - prediction| / total_day
+* 漲跌幅度的誤差:
+  ```
+  |groundtruth - prediction| / total_day
+  ```
 
 |香蕉 |洋香瓜 |蓮霧 |鳳梨 |南瓜 |大蒜 |青蔥 |小白菜 |芽菜類 |木瓜 |
 | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |

@@ -24,14 +24,18 @@ csv (date-time, ground-truth, prediction)
 
 ### Sample
 * 3 day returns prediction
+
 ![Imgur](https://i.imgur.com/KrESfgK.png)
 * price prediction
+
 ![Imgur](https://i.imgur.com/MbS25jy.png)
 
 ### Feature Importance
 * 3 day returns prediction (in day1)
+
 ![Imgur](https://i.imgur.com/IlUM3Wi.jpg)
 * Price prediction (in day1)
+
 ![Imgur](https://i.imgur.com/8Dj6Uz6.jpg)
 
 ## Reference

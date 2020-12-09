@@ -31,8 +31,9 @@
 
 
 ## Difference between 3 day return prediction
-* 漲跌幅度的誤差:
+
   ```
+  * 漲跌幅度的誤差:
   |groundtruth - prediction| / total_day
   ```
 

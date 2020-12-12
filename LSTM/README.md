@@ -46,12 +46,12 @@ csv (date-time, ground-truth, prediction)
 ![Imgur](https://i.imgur.com/MbS25jy.png)
 
 ### Feature Importance
-* 3 day returns prediction (in day1)
+* 3 day returns features
 
-![Imgur](https://i.imgur.com/IlUM3Wi.jpg)
-* Price prediction (in day1)
+![Imgur](https://i.imgur.com/Qscy0kR.jpg)
+* Price features
 
-![Imgur](https://i.imgur.com/8Dj6Uz6.jpg)
+![Imgur](https://i.imgur.com/iROLJPL.jpg)
 
 ## Reference
 * [LSTM](https://medium.com/@daniel820710/%E5%88%A9%E7%94%A8keras%E5%BB%BA%E6%A7%8Blstm%E6%A8%A1%E5%9E%8B-%E4%BB%A5stock-prediction-%E7%82%BA%E4%BE%8B-1-67456e0a0b)

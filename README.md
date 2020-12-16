@@ -1,5 +1,8 @@
 # Big Data Final Project
 ## Information
+* Final Presentation: https://docs.google.com/presentation/d/1m_tigPLDeL2n93AdaH7c5hnxqnstjfbmLQA2UORtOUE/edit?usp=sharing
+* Final Report:
+
 ### Training / Testing Data
 * `~2018` for training, `2019` for testing
 ### Data for Building the Prediction Models

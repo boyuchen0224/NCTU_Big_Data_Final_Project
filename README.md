@@ -1,7 +1,7 @@
 # Big Data Final Project
 ## Information
 * Final Presentation: https://docs.google.com/presentation/d/1m_tigPLDeL2n93AdaH7c5hnxqnstjfbmLQA2UORtOUE/edit?usp=sharing
-* Final Report:
+* Final Report: https://docs.google.com/document/d/1xd2uR9JFl2KIIEGgRrXVmcZqiCXFtd-EOVk177g4j3o/edit?usp=sharing
 
 ### Training / Testing Data
 * `~2018` for training, `2019` for testing

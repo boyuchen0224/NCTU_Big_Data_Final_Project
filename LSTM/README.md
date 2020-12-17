@@ -56,3 +56,4 @@ csv (date-time, ground-truth, prediction)
 ## Reference
 * [LSTM](https://medium.com/@daniel820710/%E5%88%A9%E7%94%A8keras%E5%BB%BA%E6%A7%8Blstm%E6%A8%A1%E5%9E%8B-%E4%BB%A5stock-prediction-%E7%82%BA%E4%BE%8B-1-67456e0a0b)
 * [Shap](https://gitee.com/mirrors/SHAP?fbclid=IwAR0csbYzN2Qmosyr73PRnuDGIjhFfsUYnawjlSyMP-0M0E0wSrIT_wuhlrQ)
+* [《可解釋AI》](https://medium.com/@jimmywu0621/%E5%8F%AF%E8%A7%A3%E9%87%8B%EF%BD%81%EF%BD%89-%E4%BB%80%E9%BA%BC%E6%98%AFshap-5ec3953e3c5b)
